@@ -10,8 +10,8 @@ This Python script helps decrypt obfuscated Python scripts that use base64 encod
 
    You can install `pycryptodome` using pip:
    ```bash
-   pip install pycryptodome
-``` 
+   pip install pycryptodome``` 
+
 Usage:
 Place the obfuscated script in the same directory as main.py.
 Run main.py using Python:
