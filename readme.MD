@@ -1,4 +1,4 @@
-# Obfuscated Code Decryptor
+# https://github.com/biolocated/Bio-Obfuscator Code Decryptor
 
 This Python script helps decrypt obfuscated Python scripts that use base64 encoding and AES encryption. It identifies the encrypted content, decrypts it, and outputs the disassembled bytecode.
 
