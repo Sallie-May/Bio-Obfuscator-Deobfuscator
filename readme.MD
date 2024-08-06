@@ -14,7 +14,7 @@ This Python script helps decrypt obfuscated Python scripts that use base64 encod
    ``` 
 
 Usage:
-Place the obfuscated script in the same directory as main.py.
+Place the obfuscated script in the same directory as main.py. 
 Run main.py using Python:
 
 ```bash
